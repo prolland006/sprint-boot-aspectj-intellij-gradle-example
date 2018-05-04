@@ -1,4 +1,4 @@
-Created using IntelliJ & Yeoman & gradle. It's just an aspectJ example. 
+Created using IntelliJ & Yeoman & gradle. It's just an aspectJ example with an hello world swing JFrame. 
 
 # Setup intellij
 - set the compiler with ajc instead of javac in intellij.
